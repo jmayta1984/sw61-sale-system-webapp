@@ -3,7 +3,7 @@ jdk:
 - openjdk8
 script: "./mvnw clean install"
 notifications:
-  email: jmayta17@hotmail.com
+  email: jmayta@pucp.edu.pe
 before_install:
 - chmod +x mvnw
 deploy:
